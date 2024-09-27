@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen Visual Basic Ivan Ferreyra", "Examen Visual Basic Ivan Ferreyra\Examen Visual Basic Ivan Ferreyra.csproj", "{0080A009-5AA0-489F-9CE5-6FF28104566F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0080A009-5AA0-489F-9CE5-6FF28104566F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0080A009-5AA0-489F-9CE5-6FF28104566F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0080A009-5AA0-489F-9CE5-6FF28104566F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0080A009-5AA0-489F-9CE5-6FF28104566F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51D2D8A6-8D07-4BBC-88BA-571BF37BC646}
+	EndGlobalSection
+EndGlobal
